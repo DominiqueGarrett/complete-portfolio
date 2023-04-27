@@ -100,7 +100,7 @@ export const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://www.linkedin.com/in/adityanair09/"
+              href="https://www.linkedin.com/in/dominique-garrett-681331258/"
               target="_blank"
               rel="noreferrer"
             >
@@ -110,7 +110,7 @@ export const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-purple-800">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://github.com/adinair007"
+              href="https://github.com/DominiqueGarrett"
               target="_blank"
               rel="noreferrer"
             >
@@ -120,7 +120,7 @@ export const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-green-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="mailto:adinair.in@outlook.com"
+              href="mailto:dominique.garrett1212@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
