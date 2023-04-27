@@ -1,6 +1,8 @@
 # complete-portfolio
 Professional Portfolio Created with React and Tailwind
+
 Deployed Link [Here](https://dominiquegarrett.github.io/complete-portfolio/)
+
 
 ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -74,14 +76,23 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 - Step 3: Open your code editor by running the command ``` code . ```
 - step 4: Start the server by running ``` npm start ``` in the terminal
 
+
 ## Setup
 - Step 1: If error occurs install dependencies by running ``` npm install react-typical --legacy-peer-deps``` in your terminal
 - Step 2: If that doesn't work try running the ``` npm install react-typical@0.1.3 ``` command in the command line
 - Step 3: Lastly, try running the command ``` npm install react-typical--force ```
 - step 4: Start the server by running ``` npm start ``` in the terminal
 
+
 ## Screenshots of Application in Use
-_______INSERT SCREENSHOT_______
+
+Homepage:
+
+<img width="1276" alt="Screen Shot 2023-04-27 at 3 12 08 AM" src="https://user-images.githubusercontent.com/114618684/234801626-d8f923c1-33ed-4fd4-a044-25789666f042.png">
+
+Projects:
+
+<img width="1276" alt="Screen Shot 2023-04-27 at 3 14 32 AM" src="https://user-images.githubusercontent.com/114618684/234801902-8eb44066-aca4-432e-9139-87bae75579cc.png">
 
 
 ## Technologies
@@ -95,9 +106,6 @@ _______INSERT SCREENSHOT_______
 * [Webpack & WebpackPwaManifest Plugins](https://www.npmjs.com/package/webpack-pwa-manifest)
 * [Babel](https://babeljs.io)
 * [Tailwind](https://tailwindcss.com)
-
-
-
 
 
 ## How to Contribute
