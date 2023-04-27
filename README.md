@@ -1,6 +1,6 @@
 # complete-portfolio
 Professional Portfolio Created with React and Tailwind
-Deployed Link [Here](_______INSERT LINK_______)
+Deployed Link [Here](https://dominiquegarrett.github.io/complete-portfolio/)
 
 ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -75,7 +75,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 - step 4: Start the server by running ``` npm start ``` in the terminal
 
 ## Setup
-_______INSERT SETUP_________
+- Step 1: If error occurs install dependencies by running ``` npm install react-typical --legacy-peer-deps``` in your terminal
+- Step 2: If that doesn't work try running the ``` npm install react-typical@0.1.3 ``` command in the command line
+- Step 3: Lastly, try running the command ``` npm install react-typical--force ```
+- step 4: Start the server by running ``` npm start ``` in the terminal
 
 ## Screenshots of Application in Use
 _______INSERT SCREENSHOT_______
