@@ -91,6 +91,9 @@ _______INSERT SCREENSHOT_______
 * [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 * [Webpack & WebpackPwaManifest Plugins](https://www.npmjs.com/package/webpack-pwa-manifest)
 * [Babel](https://babeljs.io)
+* [Tailwind](https://tailwindcss.com)
+
+
 
 
 

@@ -1,5 +1,4 @@
 import Crypto from "../assets/Crypto.jpeg";
-import TTG from "../assets/TTG.png";
 import NoteTaker from "../assets/NoteTaker.png";
 import Weather from "../assets/Weather.png";
 import JATE from "../assets/JATE1.png";
