@@ -34,7 +34,7 @@ const Footer = () => {
           </a>
           <a
             className="hover:scale-110 duration-500 flex justify-between items-center pl-5 w-full  text-gray-300"
-            href="https://drive.google.com/file/d/1bcA_qh8ukUatlRpnxOxrLX_Gbq8lHO8L/view?usp=sharing"
+            href="https://drive.google.com/file/d/1RI8ORGhTKkZH3BRkCRmGQ--BGaFXpmmU/view?usp=sharing"
           >
             <BsFillPersonLinesFill size={30} className="bg-slate-600" />
           </a>
