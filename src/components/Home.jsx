@@ -20,7 +20,7 @@ export const Home = () => {
               1000,
               "I'm a Full Stack Developer",
               1000,
-              "I'm an Engineer",
+              "I'm a Trailblazer",
               1000,
               "I'm a Creator 🛠️",
               1000,
